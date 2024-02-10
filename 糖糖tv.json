@@ -10,7 +10,7 @@
 	],
 	"wallpaper":"https://cdn.seovx.com/d/?mom=302",
 	"sites":[
-	{"key":"宝贝","name":"欢迎使用糖糖接口","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
+	{"key":"宝贝","name":"公众号:动车速达","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 	{"key":"影视应用商店","name":"影视应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext": "./json/market.json"},
 	{"key":"配置中心","name":"配置 | 中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tokenm.json"},
 	{"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
